@@ -25,9 +25,4 @@ beepBtn.addEventListener('click', function(){
     beepSound.play();
 });
 
-// document.addEventListener('DOMContentLoaded', function() {
-//     const modalBtn = document.getElementById('modalBtn');
-//     const instances = M.Modal.init(modalBtn);
-//   });
-
 M.AutoInit();
