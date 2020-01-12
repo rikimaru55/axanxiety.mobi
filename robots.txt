@@ -2,3 +2,6 @@ User-agent: *
 Disallow: /assets/
 Disallow: /css/
 Disallow: /js/
+
+
+Sitemap: https://axanxiety.mobi/sitemap.xml
